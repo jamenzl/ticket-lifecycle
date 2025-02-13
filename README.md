@@ -60,13 +60,13 @@ entire mobile/online banking system is down
   
 As a Help Desk Agent (john), observe the ticket’s properties
 
-	Priority
+Priority
  
-	Department
+Department
  
-	SLA
+SLA
  
-	Assigned To
+Assigned To
 
 <br />
 
@@ -116,13 +116,13 @@ accounting department needs adobe upgrade, broken
 <p>
 As a Help Desk Agent (john), observe the ticket’s properties:
   
-	Priority
+Priority
  
-	Department
+Department
  
-	SLA
+SLA
  
-	Assigned To
+Assigned To
 
 </p>
 <br />
@@ -169,13 +169,13 @@ CFO’s laptop will no longer turn on
 <p>
 As a Help Desk Agent (john), observe the ticket’s properties:
   
-	Priority
+Priority
  
-	Department
+Department
  
-	SLA
+SLA
  
-	Assigned To
+Assigned To
 
 </p>
 <br />
